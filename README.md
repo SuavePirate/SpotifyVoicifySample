@@ -11,7 +11,7 @@ To use this sample webhook you'll need:
 # Features
 This currently has one sample endpoint that lets you query for the current user and replace the {username} response with their actual Spotify name
 For example:
-![sample voicify image](/image.png)
+![sample voicify image](/voicify_spotify.png)
 
 Which then would result in the output:
 ![sample alexa output](/sample_alexa.png)
